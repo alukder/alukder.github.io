@@ -1,0 +1,5 @@
+site_name: "g"
+site_url: https://alukder.github.io/mkdocs-wite/
+site_author: alukder
+theme: 
+  name: material 
